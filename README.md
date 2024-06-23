@@ -1,3 +1,10 @@
-<
-# ScanProject
-real project for SCAN company for searching different publication for INN of organizations
+<h1>СКАН-сервис</h1>
+<p>Сервис для поиска поиска публикаций о компаниях по ИНН.</p>
+
+<h2>Компоненты: </h2>
+<il>
+  <ol>Главная страницы</ol>
+  <ol>Форма авторизации</ol>
+  <ol>Форма параметров запроса</ol>
+  <ol>Страница вывода результата</ol>
+</il>
