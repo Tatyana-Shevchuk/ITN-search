@@ -8,3 +8,10 @@
   <li>Форма параметров запроса</li>
   <li>Страница вывода результата</li>
 </ol>
+
+<h2>Команды для запуска: </h2>
+<ul>
+  <li>npm install</li>
+  <li>npm run build</li>
+  <li>npm start</li>
+</ul>
